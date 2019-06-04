@@ -1,3 +1,3 @@
-str1,str2=list(input().split())
-c=str1+str2
+a,b=list(input().split())
+c=a+b
 print(c)
